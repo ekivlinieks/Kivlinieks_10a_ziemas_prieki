@@ -1,0 +1,26 @@
+body {
+  background-color: lightcyan;
+}
+h1 {
+  color: blue;
+  font-size: 40px;
+}
+p {
+  color: black;
+  font-size: 25px;
+}
+li {
+    color: green;
+    font-size: 20px;
+}
+th {
+    color: darkred;
+     font: caption;
+    font-size: 30px;
+}
+td {
+    color: lightcoral;
+    font: caption;
+    font-size: 20px;
+     
+}
